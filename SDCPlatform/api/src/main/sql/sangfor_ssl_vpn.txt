@@ -1,0 +1,142 @@
+日期:
+ 刷新日志
+
+
+ 配置选项
+
+
+ 导出日志
+
+
+
+
+
+
+来源类型时间详细信息
+CSPROXY调试21:37:24[schannel-client]worker_close_send/224: discard: 5 0
+CSPROXY调试21:37:24[schannel-client]worker_send/752: send_from_cbuf failed: Broken pipe
+SSLVPN调试21:37:23[crdb][crdb_shm_attach]:crdb_shm_attach.key=1397967874,shm_id=819205.
+SSLVPN调试21:37:23[RDB,rdb_main.c:831] sem id = 32769
+SSLVPN调试21:37:23[RDB,rdb_main.c:807] get lock file /etc/db/sqlite3/sslvpnex succ!
+SSLVPN调试21:37:23[LIB_LIO_CTRL,src/lioctrl_msg.c,288]msgget msg queue file "/etc/runtime/id" success!key=53534c01
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:af4b98db
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:63125677
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:2fc6f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:bf8ffb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f5e1507d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:c624556a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:d530fb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:9d2efb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:de3a567d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:9bccb5de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:7ce6fa71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:72eefa71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:ff3868df
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:52a1507d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:1631557d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:fd67e4b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:46cc557d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:75e4507d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:6fc045b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:1f0798db
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a408b6de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f4bce4b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a68e5677
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:aacaf971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:7138b6de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:6ba6527d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:ed715c6a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:8136b6de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:95d4f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a0d6556a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:e6aa680e
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:600298db
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:e8695577
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:7c57547d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:81dc45b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:9b68567d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:328c5677
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:e0ec547d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:2f71e3b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:d409546a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:703cfb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:25b0537d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:9c3d6f0e
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:cdbc527d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:c5b8557d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:d99d517d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:dc346a0e
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:dd41556a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:b1c6f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:3fde98db
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:dc3943b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:703043b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:6ef0557d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:1b2e5677
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:ecbbf971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:db9c517d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:8182e5b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:2dcb506a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f9d9516a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:51755c6a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:d53143b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:54b6547d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:ca3643b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:c1fd557d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:299346da
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:5033f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:de5f537d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:17dd45b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:92ddb5de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:81c3f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a6c145b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:ec8efb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:889bf871
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a6d1f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:2a5e6a0e
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:bc38b6de
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:eb8afb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:830d576a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:3b35f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:e8f516a
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f9df45b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:76f2fa71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:3d516b0e
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:a99e517d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:9f30f971
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:3eba547d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f06246b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:90df45b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:93943b7
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:21b4547d
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:666f5577
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:4a12fb71
+SSLVPN调试21:37:23[CONNALIVE]need to reflush:f19bf871
+SSLVPN调试21:37:23[CONNALIVE]the node is director,begin reflush
+SSLVPN调试21:37:23[Mod_mvcon]DHCheckSslBuff info:key is 24064C3FFDA7E6C3!
+SSLVPN调试21:37:23[RDB,rdb_main.c:831] sem id = 32769
+SSLVPN调试21:37:23[RDB,rdb_main.c:807] get lock file /etc/db/sqlite3/sslvpnex succ!
+SSLVPN调试21:37:23[LIB_LIO_CTRL,src/lioctrl_msg.c,288]msgget msg queue file "/etc/runtime/id" success!key=53534c01
+IP隧道调试21:37:23[IPTUN_DEBUG] Visit Ip Source -> ip 136.6.129.107 port 8086 ! , src/Worker.cpp:117
+IP隧道调试21:37:22[IPTUN_DEBUG] Worker: update ip 2.0.1.19 , src/Worker.cpp:79
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [mod_svpn_web.c:1467] [svpn_web_fixup_headers_in] lex mode! url=219.151.243.2/web/0/http/1/136.6.129.39:8080/TAS/app/audit/companyAuditAction.action
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [svpn_cookie.c:1483] [sv_modif_cookie_in] newcookie=JSESSIONID=171AB63FF7890109EC9E6FB1F946FF9C
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [svpn_cookie.c:1364] [sv_modif_cookie_in] enable_svr_cookie=1 cookie=language=zh_CN; __guid=106960705.1484047069219862000.1580869160648.97; EA_port=54530; LoginMode=2; AppCount=6; remoteAppCount=0; websvr_cookie=%zd; LogouReason-ServiceState=Wed%20Feb%2019%202020%2011%3A46%3A58%20GMT%2B0800%20(%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4)%3A%20afterClientLogout%20pageLogout; LogouReason-pageLogout=Wed%20Feb%2019%202020%2011%3A46%3A58%20GMT%2B0800%20(%E4%B8%AD%E5
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [mod_svpn_web.c:1401] [svpn_web_fixup_headers_in] fix Referer to http://136.6.129.39:8080/TAS/framework/authAction.action?method=loadAuthTopMenus#
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [svpn_parse_common.c:951] [url_conceal_de] hoststart 136.6.129.39:8080/TAS/framework/authAction.action?method=loadAuthTopMenus#
+SSLVPN调试21:37:21[MOD_TWF] [src/access_check.c:651] [check_web_warrent_rs] destination url is:http://136.6.129.39:8080/TAS/app/audit/companyAuditAction.action,0,0
+SSLVPN调试21:37:21[RDB,rdb_private.c:126] group->attrs:b, user->attrs:b
+SSLVPN调试21:37:21[RDB,rdb_private.c:74] rdb_get_user_group: userid:luojie2 is inherit grp auth from group!
+SSLVPN调试21:37:21[RDB,rdb_private.c:30] rdb_get_user_group: userid:luojie2 is inherit grp_sec attr from group!
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [mod_svpn_web.c:1187] [svpn_trans_url] uri is /web/0/http/1/136.6.129.39:8080/TAS/app/audit/companyAuditAction.action,unparsed uri is http://136.6.129.39:8080/TAS/app/audit/companyAuditAction.action?method=loadAll&a_dhx_rSeed=1582118689478,real url is http://136.6.129.39:8080/TAS/app/audit/companyAuditAction.action.
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [svpn_parse_common.c:951] [url_conceal_de] hoststart 136.6.129.39:8080/TAS/framework/authAction.action
+SSLVPN调试21:37:21[MOD_SVPN_WEB] [svpn_parse_common.c:951] [url_conceal_de] hoststart 136.6.129.39:8080/TAS/app/audit/companyAuditAction.action
+IP隧道调试21:37:20[IPTUN_DEBUG] Worker: update ip 2.0.1.212 , src/Worker.cpp:79
+IP隧道调试21:37:20[IPTUN_DEBUG] Worker: update ip 2.0.1.217 , src/Worker.cpp:79
+IP隧道调试21:37:20[IPTUN_DEBUG] Worker: update ip 2.0.1.64 , src/Worker.cpp:79
+IP隧道调试21:37:19[IPTUN_DEBUG] Visit Ip Source -> ip 136.6.80.91 port 9080 ! , src/Worker.cpp:117
+IP隧道调试21:37:19[IPTUN_DEBUG] Visit Ip Source -> ip 136.6.80.91 port 9080 ! , src/Worker.cpp:117
+IP隧道调试21:37:19[IPTUN_DEBUG] Visit Ip Source -> ip 136.6.80.91 port 9080 ! , src/Worker.cpp:117
+IP隧道调试21:37:19[IPTUN_DEBUG] Visit Ip Source -> ip 136.6.80.91 port 9080 ! , src/Worker.cpp:117
+IP隧道调试21:37:19[IPTUN_DEBUG] Worker: update ip 2.0.1.100 , src/Worker.cpp:79
+SSLVPN调试21:37:18[PIPD_DBG] Session 61e91cb60d763ba8 -> 72886 for group 35 get dynamic virtual ip 2.0.1.93 , src/CPipdWorker.cpp:704

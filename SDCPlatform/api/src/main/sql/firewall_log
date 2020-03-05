@@ -1,0 +1,17 @@
+create table firewall_log(
+    source_address string COMMENT '源IP',
+    ipv4 string COMMENT 'IPv4',
+    ipv6 string COMMENT 'IPv6',
+    source_port string COMMENT '源端口',
+    destination_address string COMMENT '目标IP',
+    destination_port string COMMENT '目标端口',
+    nat_source_address string COMMENT 'NAT后的源IP',
+    nat_source_port string COMMENT 'NAT后的源端口',
+    end_time string COMMENT '结束时间(NTP)',
+    elapsed_time string COMMENT '持续时间(秒)'
+)
+row format delimited
+fields terminated by ','
+collection items terminated by '-'
+map keys terminated by ':'
+;
