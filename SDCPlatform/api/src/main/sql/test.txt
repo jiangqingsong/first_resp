@@ -1,0 +1,17 @@
+time
+source_ip
+attack_type
+source_interface
+attack_packets
+vpn
+times
+reason
+local_interface
+local_mac
+local_vlan
+local_ce_vlan
+receive_interface
+receive_mac
+receive_vlan
+receive_ce_vlan
+ip_conflict_type

@@ -1,0 +1,21 @@
+CREATE EXTERNAL TABLE IF NOT EXISTS sdc.ods_firewall_online(
+    interface string COMMENT '接口',
+    timestamp string COMMENT '时间',
+    action string COMMENT '动作',
+    dstip string COMMENT '目标IP',
+    dstport string COMMENT '目标端口',
+    id string COMMENT 'id',
+    ipflags string COMMENT 'IP标志',
+    length string COMMENT '长度',
+    protoname string COMMENT '协议名称',
+    reason string COMMENT '原因',
+    seq string COMMENT '序列号',
+    srcip string COMMENT '源IP',
+    srcport string COMMENT '源端口',
+    tcpflags string COMMENT 'tcp标志'
+)
+PARTITIONED BY(pt_d string, pt_h string)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+location '/user/hive/warehouse/sdc.db/ods_firewall_online'
+;

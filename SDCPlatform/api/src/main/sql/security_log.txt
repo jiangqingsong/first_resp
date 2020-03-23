@@ -1,0 +1,784 @@
+Oct 26 2015 14:39:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[0]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 14:36:29+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[1]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:35:56+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[2]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:35:56+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[3]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 14:35:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[4]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:35:37+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[5]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:35:37+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[6]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 14:35:26+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[7]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 14:35:01+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[8]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 14:34:39+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[9]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:34:30+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[10]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:34:30+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[11]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 14:34:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[12]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 14:24:23+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[13]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 14:24:23+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[14]:Last message repeated 1 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 14:24:13+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[15]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 14:21:53+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[16]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:21:21+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[17]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:21:21+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[18]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 14:21:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[19]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:21:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[20]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:21:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[21]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 14:21:02+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[22]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 14:20:26+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[23]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 14:20:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[24]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:19:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[25]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:19:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[26]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 14:19:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[27]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 14:17:59+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[28]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 14:09:37+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[29]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:09:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[30]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 14:05:27+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[31]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 14:05:07+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[32]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 14:04:36+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[33]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:04:36+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[34]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 14:04:16+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[35]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 14:04:10+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[36]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 14:01:03+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[37]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:00:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[38]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:00:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[39]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 14:00:29+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[40]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:00:11+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[41]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 14:00:11+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[42]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 14:00:11+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[43]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 13:59:35+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[44]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:59:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[45]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:59:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[46]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:59:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[47]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 13:54:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[48]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 13:52:59+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[49]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 13:49:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[50]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 13:44:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[51]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:43:42+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[52]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:43:42+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[53]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 13:43:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[54]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:43:23+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[55]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:43:23+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[56]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 13:43:23+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[57]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 13:42:45+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[58]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:42:25+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[59]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:42:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[60]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:42:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[61]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 13:39:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[62]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 13:34:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[63]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 13:32:58+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[64]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 13:24:25+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[65]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 13:24:06+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[66]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:23:02+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[67]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 13:19:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[68]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:19:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[69]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 13:18:47+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[70]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:18:47+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[71]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 13:18:46+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[72]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:18:28+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[73]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:18:28+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[74]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 13:18:28+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[75]:Last message repeated 2 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 13:18:01+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[76]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:17:58+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[77]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 13:17:58+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[78]:Last message repeated 2 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 13:17:55+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[79]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:17:52+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[80]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 13:17:30+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[81]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:17:22+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[82]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 13:17:22+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[83]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 13:09:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[84]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=46 packets per second)
+Oct 26 2015 13:04:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[85]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 26 2015 13:02:58+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[86]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 12:59:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[87]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 12:53:18+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[88]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 12:49:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[89]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 12:48:52+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[90]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:48:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[91]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:48:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[92]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 12:48:14+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[93]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:47:57+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[94]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:47:57+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[95]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 12:47:57+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[96]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 12:47:21+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[97]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 12:47:00+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[98]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:46:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[99]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:46:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[100]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 12:44:16+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[101]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 12:44:16+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[102]:Last message repeated 1 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 12:43:17+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[103]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 12:34:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[104]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 12:32:57+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[105]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 12:31:38+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[106]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:31:06+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[107]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:31:06+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[108]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 12:31:04+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[109]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:30:47+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[110]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:30:47+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[111]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 12:30:47+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[112]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 12:30:11+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[113]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 12:29:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[114]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:29:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[115]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:29:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[116]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 12:28:16+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[117]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 12:24:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[118]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 12:14:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[119]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 12:12:57+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[120]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 12:04:23+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[121]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 12:03:01+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[122]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 12:00:42+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[123]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:00:10+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[124]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 12:00:10+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[125]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 12:00:08+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[126]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:59:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[127]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:59:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[128]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 11:59:51+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[129]:Last message repeated 2 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 11:59:20+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[130]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 11:59:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[131]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 11:59:19+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[132]:Last message repeated 2 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 11:59:14+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[133]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 11:58:52+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[134]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:58:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[135]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:58:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[136]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 11:57:57+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[137]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 11:54:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[138]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 11:44:22+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[139]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 11:39:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[140]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=56 packets per second)
+Oct 26 2015 11:29:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[141]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 11:26:32+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[142]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:25:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[143]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:25:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[144]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 11:25:58+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[145]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:25:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[146]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:25:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[147]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 11:25:27+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[148]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 11:25:03+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[149]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 11:24:42+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[150]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:24:33+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[151]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:24:33+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[152]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 11:24:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[153]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 11:14:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[154]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 11:04:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[155]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 11:02:54+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[156]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:02:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[157]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:02:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[158]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 11:02:18+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[159]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:02:01+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[160]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:02:01+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[161]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 11:02:01+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[162]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 11:01:24+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[163]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 11:01:04+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[164]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:00:54+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[165]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 11:00:54+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[166]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 10:59:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[167]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 10:49:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[168]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 10:44:17+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[169]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 10:42:57+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[170]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 10:37:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[171]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:34:22+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[172]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 10:32:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[173]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:32:41+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[174]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 10:32:41+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[175]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 10:32:04+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[176]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 10:31:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[177]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:31:22+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[178]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:31:22+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[179]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 10:31:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[180]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:31:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[181]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:31:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[182]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 26 2015 10:31:02+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[183]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 10:30:26+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[184]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 10:30:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[185]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:29:56+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[186]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 10:29:56+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[187]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 26 2015 10:29:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[188]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 10:19:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[189]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 10:18:01+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[190]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 10:14:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[191]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 10:12:56+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[192]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 10:04:22+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[193]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 09:59:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[194]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 09:54:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[195]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 09:44:20+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[196]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 09:39:16+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[197]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 09:37:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[198]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:35:05+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[199]:Last message repeated 11 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 09:32:50+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[200]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 09:32:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[201]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:32:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[202]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 26 2015 09:29:19+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[203]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 09:29:17+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[204]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:28:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[205]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:28:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[206]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 26 2015 09:28:43+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[207]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:28:26+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[208]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:28:26+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[209]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 26 2015 09:28:26+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[210]:Last message repeated 1 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 09:27:58+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[211]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 09:27:57+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[212]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 09:27:55+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[213]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 09:27:53+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[214]:Last message repeated 2 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 09:27:49+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[215]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 09:27:27+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[216]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:27:18+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[217]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 26 2015 09:27:18+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[218]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 26 2015 09:24:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[219]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 09:14:21+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[220]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 26 2015 09:13:01+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[221]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 26 2015 09:09:16+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[222]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=46 packets per second)
+Oct 26 2015 08:59:18+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[223]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 08:49:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[224]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 08:39:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[225]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 08:29:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[226]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 08:19:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[227]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=42 packets per second)
+Oct 26 2015 08:09:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[228]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 07:59:15+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[229]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 07:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[230]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 07:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[231]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 07:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[232]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 26 2015 07:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[233]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 07:16:38+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[234]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 07:11:37+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[235]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 07:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[236]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 06:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[237]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 06:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[238]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 06:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[239]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 06:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[240]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 06:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[241]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 06:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[242]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 05:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[243]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 05:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[244]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 26 2015 05:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[245]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 05:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[246]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 05:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[247]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 05:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[248]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 04:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[249]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 04:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[250]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 04:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[251]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 04:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[252]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 04:26:18+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[253]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 04:21:17+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[254]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 04:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[255]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 04:16:17+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[256]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 04:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[257]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 03:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[258]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 03:51:14+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[259]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 03:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[260]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 03:41:13+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[261]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 03:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[262]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 03:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[263]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 03:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[264]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 03:16:11+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[265]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 03:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[266]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 26 2015 02:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[267]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 02:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[268]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 02:39:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[269]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 02:29:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[270]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 02:19:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[271]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=58 packets per second)
+Oct 26 2015 02:09:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[272]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 01:59:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[273]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 01:55:47+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[274]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 01:49:14+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[275]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 01:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[276]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 01:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[277]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 01:25:43+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[278]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 01:19:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[279]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 01:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[280]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 26 2015 01:05:41+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[281]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 00:59:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[282]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=59 packets per second)
+Oct 26 2015 00:49:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[283]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 00:49:13+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[284]:Last message repeated 1 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 26 2015 00:45:38+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[285]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 26 2015 00:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[286]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 00:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[287]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=47 packets per second)
+Oct 26 2015 00:19:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[288]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 26 2015 00:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[289]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 23:59:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[290]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 23:49:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[291]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 23:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[292]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 23:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[293]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 23:19:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[294]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 23:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[295]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 23:04:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[296]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 23:00:28+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[297]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 22:54:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[298]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 22:44:13+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[299]:Last message repeated 1 times.(InfoID=4278652929, ModuleName=SECE, InfoAlias=ARPMISS)
+Oct 25 2015 22:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[300]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 22:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[301]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 22:19:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[302]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 22:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[303]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 21:59:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[304]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 21:49:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[305]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 21:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[306]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 21:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[307]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 21:19:29+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[308]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 21:19:29+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[309]:Last message repeated 1 times.(InfoID=4278652936, ModuleName=SECE, InfoAlias=PORT_ATTACK_OCCUR)
+Oct 25 2015 21:18:07+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[310]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 25 2015 21:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[311]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 20:59:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[312]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 20:49:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[313]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 20:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[314]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 20:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[315]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 25 2015 20:19:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[316]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 25 2015 20:09:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[317]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 19:59:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[318]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 19:49:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[319]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 19:39:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[320]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 19:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[321]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=34 packets per second)
+Oct 25 2015 19:25:04+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[322]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 19:19:28+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[323]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 19:19:28+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[324]:Last message repeated 1 times.(InfoID=4278652936, ModuleName=SECE, InfoAlias=PORT_ATTACK_OCCUR)
+Oct 25 2015 19:18:03+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[325]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 25 2015 19:09:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[326]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 18:59:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[327]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 18:55:00+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[328]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 18:49:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[329]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 18:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[330]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 18:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[331]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 18:19:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[332]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 18:09:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[333]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 17:59:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[334]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 17:49:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[335]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 17:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[336]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 17:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[337]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 17:19:28+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[338]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 17:19:28+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[339]:Last message repeated 1 times.(InfoID=4278652936, ModuleName=SECE, InfoAlias=PORT_ATTACK_OCCUR)
+Oct 25 2015 17:18:06+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[340]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 25 2015 17:14:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[341]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 17:04:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[342]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 16:54:48+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[343]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 16:54:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[344]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 16:44:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[345]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 16:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[346]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 16:29:13+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[347]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 16:19:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[348]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 16:09:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[349]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 15:59:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[350]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 15:49:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[351]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 15:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[352]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 15:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[353]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 15:19:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[354]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 15:09:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[355]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 14:59:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[356]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 14:54:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[357]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:54:15+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[358]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:49:44+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[359]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:49:13+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[360]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:49:13+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[361]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 14:49:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[362]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 14:46:43+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[363]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:46:10+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[364]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:46:10+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[365]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 14:46:07+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[366]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:45:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[367]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:45:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[368]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 14:45:27+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[369]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:45:26+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[370]:Last message repeated 4 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:45:15+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[371]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:44:53+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[372]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:44:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[373]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:44:44+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[374]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 14:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[375]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 14:36:37+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[376]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:36:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[377]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:36:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[378]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 25 2015 14:36:03+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[379]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:35:46+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[380]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:35:46+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[381]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 25 2015 14:35:27+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[382]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:35:09+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[383]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:34:47+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[384]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:34:39+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[385]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:34:39+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[386]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 14:29:53+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[387]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:29:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[388]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:29:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[389]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 14:29:17+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[390]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[391]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 14:29:01+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[392]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:29:01+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[393]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 14:29:01+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[394]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:28:24+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[395]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:28:03+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[396]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:27:54+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[397]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:27:54+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[398]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 14:19:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[399]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 14:15:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[400]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:15:17+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[401]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:15:17+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[402]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 25 2015 14:15:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[403]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:14:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[404]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:14:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[405]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 25 2015 14:14:59+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[406]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:14:22+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[407]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:14:01+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[408]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:13:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[409]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:13:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[410]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 14:09:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[411]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 14:04:30+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[412]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:02:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[413]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:01:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[414]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:01:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[415]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 14:01:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[416]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:01:13+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[417]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:01:13+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[418]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 14:01:13+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[419]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 14:00:37+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[420]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 14:00:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[421]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:00:07+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[422]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 14:00:07+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[423]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 13:59:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[424]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 13:55:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[425]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:54:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[426]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:54:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[427]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 25 2015 13:54:29+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[428]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:54:12+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[429]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:54:12+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[430]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 25 2015 13:54:12+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[431]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 13:53:35+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[432]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 13:53:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[433]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:53:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[434]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:53:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[435]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 13:49:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[436]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 13:39:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[437]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 13:37:53+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[438]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:37:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[439]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:37:20+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[440]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 13:37:19+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[441]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:37:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[442]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:37:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[443]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 13:37:02+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[444]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 13:36:25+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[445]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 13:36:05+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[446]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:35:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[447]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:35:55+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[448]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 13:29:12+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[449]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 13:19:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[450]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 13:15:07+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[451]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:14:34+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[452]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:14:34+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[453]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 25 2015 13:14:33+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[454]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:14:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[455]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:14:15+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[456]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 25 2015 13:14:15+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[457]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 13:13:38+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[458]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 13:13:17+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[459]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:13:08+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[460]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 13:13:08+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[461]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 13:09:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[462]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 12:59:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[463]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=47 packets per second)
+Oct 25 2015 12:49:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[464]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 12:43:24+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[465]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:42:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[466]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:42:51+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[467]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 12:42:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[468]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:42:33+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[469]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:42:33+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[470]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 12:42:33+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[471]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 12:41:57+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[472]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 12:41:34+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[473]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:41:26+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[474]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:41:26+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[475]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 12:39:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[476]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 12:29:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[477]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 12:27:22+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[478]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:26:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[479]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:26:50+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[480]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+Oct 25 2015 12:26:48+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[481]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:26:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[482]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:26:31+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[483]:Failed to login through SNMP. (Ip=10.55.5.97, Times=6, Reason=the community was incorrect)
+Oct 25 2015 12:26:31+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[484]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 12:25:55+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[485]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 12:25:32+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[486]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:25:24+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[487]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 12:25:24+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[488]:Failed to login through SNMP. (Ip=10.55.5.97, Times=5, Reason=the community was incorrect)
+Oct 25 2015 12:19:29+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[489]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 12:19:29+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[490]:Last message repeated 1 times.(InfoID=4278652936, ModuleName=SECE, InfoAlias=PORT_ATTACK_OCCUR)
+Oct 25 2015 12:18:05+08:00 Sjzx_Zhu %%01SECE/4/PORT_ATTACK_OCCUR(l)[491]:Auto port-defend started.(SourceAttackInterface=GigabitEthernet2/2/1/0, AttackProtocol=ARP-REQUEST)
+Oct 25 2015 12:14:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[492]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=51 packets per second)
+Oct 25 2015 12:04:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[493]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 11:57:00+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[494]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:56:28+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[495]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:56:28+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[496]:Failed to login through SNMP. (Ip=10.55.5.97, Times=4, Reason=the community was incorrect)
+Oct 25 2015 11:56:26+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[497]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:56:09+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[498]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:56:09+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[499]:Failed to login through SNMP. (Ip=10.55.5.97, Times=3, Reason=the community was incorrect)
+Oct 25 2015 11:56:09+08:00 Sjzx_Zhu %%01INFO/4/SUPPRESS_LOG(l)[500]:Last message repeated 5 times.(InfoID=1077428231, ModuleName=LINE, InfoAlias=LOGIN_FAIL)
+Oct 25 2015 11:55:32+08:00 Sjzx_Zhu %%01LINE/4/LOGIN_FAIL(s)[501]:Failed to login. (Ip=10.55.5.97, Reason="The channel configuration is incorrect.")
+Oct 25 2015 11:55:10+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[502]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:55:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[503]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:55:02+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[504]:Failed to login through SNMP. (Ip=10.55.5.97, Times=2, Reason=the community was incorrect)
+Oct 25 2015 11:54:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[505]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 11:44:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[506]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 11:34:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[507]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=49 packets per second)
+Oct 25 2015 11:24:11+08:00 Sjzx_Zhu %%01SECE/4/ARPMISS(l)[508]:Attack occurred.(AttackType=Arp Miss Attack, SourceInterface=GigabitEthernet1/2/1/1, SourceIP=10.55.0.2, AttackPackets=60 packets per second)
+Oct 25 2015 11:23:32+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPUNLOCK(s)[509]:The source IP was unlocked.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:22:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_IPLOCK(s)[510]:The source IP was locked because of the failure of login through SNMP.(SourceIP=10.55.5.97, Vpn= )
+Oct 25 2015 11:22:59+08:00 Sjzx_Zhu %%01SNMP/4/SNMP_FAIL(s)[511]:Failed to login through SNMP. (Ip=10.55.5.97, Times=1, Reason=the community was incorrect)
+<Sjzx_Zhu>
+<Sjzx_Zhu>
+<Sjzx_Zhu>
+<Sjzx_Zhu>
+<Sjzx_Zhu>
+<Sjzx_Zhu>
+<Sjzx_Zhu>dis trap
+<Sjzx_Zhu>dis trapbuffer
+Trapping buffer configuration and contents : enabled
+Allowed max buffer size : 1024
+Actual buffer size : 256
+Channel number : 3 , Channel name : trapbuffer
+Dropped messages : 0
+Overwritten messages : 71863
+Current messages : 256
+
+#Oct 26 2015 14:39:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 14:34:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 14:33:27+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 14:28:39+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 14:24:23+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 14:19:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 14:13:26+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 14:09:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 14:08:38+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 14:04:16+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:54:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:53:25+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:49:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:48:37+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:39:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:34:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:33:23+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:28:35+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:24:25+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:19:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:13:22+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:09:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 13:08:34+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 13:04:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:59:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:53:21+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:49:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:48:33+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:44:16+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:34:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:33:20+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:29:16+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:28:32+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:19:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:14:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 12:13:19+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:08:31+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 12:04:23+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:59:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:54:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:53:18+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:48:30+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:44:22+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:39:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:33:17+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:29:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:28:29+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:24:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:14:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 11:13:16+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:08:28+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 11:04:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:59:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:53:14+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:49:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:48:27+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:44:17+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:34:22+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:33:13+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:29:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:28:25+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:19:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:14:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 10:13:12+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:08:24+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:04:28+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.49.132, Local interface=GigabitEthernet1/1/0/0, Local MAC=78d7-52a0-63fa, Local vlan=49, Local CE vlan=0, Receive interface=GigabitEthernet1/1/0/0, Receive MAC=fce3-3c9d-5fa2, Receive vlan=49, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 10:04:22+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:59:42+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.49.130, Local interface=GigabitEthernet1/1/0/0, Local MAC=78d7-52a0-5476, Local vlan=49, Local CE vlan=0, Receive interface=GigabitEthernet1/1/0/0, Receive MAC=78d7-52a0-63fa, Receive vlan=49, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:59:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:53:11+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:49:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:48:23+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:44:20+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:39:16+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:33:10+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:29:19+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:28:22+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:24:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:14:21+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:13:09+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 09:09:16+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 09:08:21+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:59:18+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:54:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:53:08+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:49:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:48:20+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:44:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:39:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:34:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:33:07+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:29:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:28:19+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:24:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:19:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:14:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:13:06+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:09:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 08:08:18+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 08:04:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:59:15+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:53:05+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:48:17+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:33:03+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:28:15+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:13:02+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 07:08:14+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 07:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:53:01+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:48:13+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:33:00+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:28:12+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:12:59+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 06:08:11+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 06:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:52:58+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:48:10+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:32:57+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:28:09+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:12:56+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 05:08:08+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 05:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:52:55+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:48:06+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:32:53+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:28:05+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:12:52+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 04:08:04+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 04:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:52:51+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:48:03+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:32:50+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:28:02+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:12:49+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-566b-32e3, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-5665-bfb6, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 03:08:01+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 03:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:52:48+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:48:00+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:44:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:39:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:34:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:32:47+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:29:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:27:59+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:24:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:19:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:14:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:12:46+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:09:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 02:07:58+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 02:04:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:59:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:54:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:52:44+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:49:14+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:47:56+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:44:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:39:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:34:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:32:43+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:29:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:27:55+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:24:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:19:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:14:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:12:42+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:09:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 01:07:54+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 01:04:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:59:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:54:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:52:41+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:49:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:47:53+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:44:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:39:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:34:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:32:40+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:29:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:27:52+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:24:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:19:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:14:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:12:39+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:09:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 26 2015 00:07:51+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 26 2015 00:04:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:59:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:54:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:52:38+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 25 2015 23:49:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:47:50+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001e-671e-8888, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001b-a1ab-4364, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 25 2015 23:44:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:39:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:34:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:32:37+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.41.137, Local interface=XGigabitEthernet1/2/0/3, Local MAC=0050-5665-bfb6, Local vlan=41, Local CE vlan=0, Receive interface=XGigabitEthernet1/2/0/3, Receive MAC=0050-566b-32e3, Receive vlan=41, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 25 2015 23:29:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.
+#Oct 25 2015 23:27:49+08:00 Sjzx_Zhu ARP/4/ARP_IPCONFLICT_TRAP:OID 1.3.6.1.4.1.2011.5.25.123.2.6 ARP detects IP conflict. (IP address=10.55.0.8, Local interface=Eth-Trunk1, Local MAC=001b-a1ab-4364, Local vlan=999, Local CE vlan=0, Receive interface=Eth-Trunk1, Receive MAC=001e-671e-8888, Receive vlan=999, Receive CE vlan=0, IP conflict type=Remote IP conflict).
+#Oct 25 2015 23:24:13+08:00 Sjzx_Zhu SECE/4/ARPMISS_SIP_SPEEDLIMIT_ALARM:OID 1.3.6.1.4.1.2011.5.25.165.2.2.2.12 The arp-miss packet speed with source ip 10.55.0.2 exceed the speed-limit value configed 30.

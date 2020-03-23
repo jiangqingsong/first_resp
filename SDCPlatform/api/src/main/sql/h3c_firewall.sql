@@ -1,4 +1,4 @@
-create table h3c_firewall(
+create table ppe_h3c_firewalllog(
     time string,
     ike_p1_sa_establish_fail string,
     reason string,
@@ -22,8 +22,10 @@ create table h3c_firewall(
     tunnel_id string,
     ike_profile_name  string
 )
+COMMENT 'h3c 防火墙日志'
+partitioned by (pt_d string)
 row format delimited
-fields terminated by ','
-collection items terminated by '-'
-map keys terminated by ':'
+fields terminated by '\t'
 ;
+
+

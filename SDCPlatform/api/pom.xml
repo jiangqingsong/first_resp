@@ -8,7 +8,6 @@
         <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.brd.sdc</groupId>
     <artifactId>api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api</name>
@@ -22,15 +21,43 @@
         <mybatis-version>1.3.2</mybatis-version>
         <lombok-version>1.14.4</lombok-version>
         <presto-jdbc-version>0.203</presto-jdbc-version>
-        <hive.version>2.3.2</hive.version>
+        <spring-data-hadoop.version>2.5.0.RELEASE</spring-data-hadoop.version>
+        <hive.version>1.1.0</hive.version>
+        <hadoop.version>2.6.0</hadoop.version>
     </properties>
 
     <dependencies>
-        <!-- hive jdbc -->
+
+
+        <!-- 多数据源驱动 -->
+        <dependency>
+            <groupId>com.facebook.presto</groupId>
+            <artifactId>presto-jdbc</artifactId>
+            <version>0.203</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.4</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-hadoop</artifactId>
+            <version>${spring-data-hadoop.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>javax.servlet</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
         <dependency>
             <groupId>org.apache.hive</groupId>
             <artifactId>hive-jdbc</artifactId>
-            <version>${hive.version}</version>
+            <version>1.1.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.eclipse.jetty.aggregate</groupId>
@@ -44,29 +71,14 @@
         </dependency>
 
         <dependency>
-            <groupId>org.springframework.data</groupId>
-            <artifactId>spring-data-hadoop</artifactId>
-            <version>${spring-data-hadoop.version}</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>javax.servlet</groupId>
-                    <artifactId>*</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-
-        <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid-spring-boot-starter</artifactId>
             <version>1.1.1</version>
         </dependency>
-
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-jdbc</artifactId>
@@ -99,6 +111,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
     </dependencies>
 
     <build>

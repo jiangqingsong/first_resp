@@ -8,24 +8,24 @@ package com.brd.sdc.api.response;
  * @createTime 2020年02月28日 17:26:00
  */
 public class ResponseBean<T> {
-    private String result;
-    private String msg;
+    private String resultCode;
+    private String resultMsg;
     private T data;
 
     public ResponseBean(){}
 
     public ResponseBean(String success, String msg, T data) {
         super();
-        this.result = success;
-        this.msg = msg;
+        this.resultCode = success;
+        this.resultMsg = msg;
         this.data = data;
     }
 
     public ResponseBean(T data, UnicomResponseEnums unicomResponseEnums){
         super();
         this.data = data;
-        this.result = unicomResponseEnums.getCode();
-        this.msg = unicomResponseEnums.getMsg();
+        this.resultCode = unicomResponseEnums.getCode();
+        this.resultMsg = unicomResponseEnums.getMsg();
     }
     @Override
     public String toString() {
@@ -36,26 +36,26 @@ public class ResponseBean<T> {
                 ", errMsg='" + errMsg + '\'' +
                 '}';*/
         return "ResponseBean{" +
-                "result=" + result +
-                ",message=" + msg +
+                "result=" + resultCode +
+                ",message=" + resultMsg +
                 ", data=" + data +
                 '}';
     }
 
-    public String getResult() {
-        return result;
+    public String getResultCode() {
+        return resultCode;
     }
 
-    public void setResult(String result) {
-        this.result = result;
+    public void setResultCode(String resultCode) {
+        this.resultCode = resultCode;
     }
 
-    public String getMsg() {
-        return msg;
+    public String getResultMsg() {
+        return resultMsg;
     }
 
-    public void setMsg(String msg) {
-        this.msg = msg;
+    public void setResultMsg(String resultMsg) {
+        this.resultMsg = resultMsg;
     }
 
     public T getData() {
