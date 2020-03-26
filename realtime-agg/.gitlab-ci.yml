@@ -1,0 +1,3 @@
+include:
+  - project: 'infra/hx'
+    file: "/ci/java7.gitlab-ci.yml"

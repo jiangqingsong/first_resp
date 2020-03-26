@@ -1,0 +1,13 @@
+from: ${RK_DOCKER_REGISTRY}/rk-infra/oraclejdk7:onbuild
+image: ""
+workdir: /data
+env: 
+  JAVA_TOOL_OPTIONS: "-Xmx960m -Dfile.encoding=UTF-8"
+add:
+  ./target/flink-1.0-SNAPSHOT-exec.jar: ./
+expose:
+- "8080"
+cmd:
+- java
+- -jar
+- /data/flink-1.0-SNAPSHOT-exec.jar

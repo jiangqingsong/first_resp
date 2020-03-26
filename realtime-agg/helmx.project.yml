@@ -1,0 +1,5 @@
+project:
+  name: srv-flink
+  version: 0.0.1
+  group: infra
+  description: "srv-flink"
